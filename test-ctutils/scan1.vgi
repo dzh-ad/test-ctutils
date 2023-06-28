@@ -1,0 +1,25 @@
+{volume1}
+[representation]
+size = 597 528 1387 
+mirror = 0 0 0 0 
+datatype = unsigned integer
+datarange = 0 -1
+bitsperelement = 16
+[file1]
+SkipHeader = 1024
+RegionOfInterestStart = 0 0 0 
+RegionOfInterestEnd = 596 527 1386 
+FileFormat = raw
+Size = 597 528 1387 
+Name = 2170-30s-bin2-SS 2023-4-21 9-34-18.uint16_scv
+Datatype = unsigned integer
+datarange = 0 -1
+BitsPerElement = 16
+{volumeprimitive12}
+[geometry]
+resolution = 0.0552407285358067 0.0552407285358067 0.0552407285358067
+unit = mm
+[volume]
+volume = volume1
+[description]
+text = 2170-30s-bin2-SS
